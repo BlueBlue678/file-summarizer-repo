@@ -21,3 +21,4 @@ file-summarizer/
 ├── SKILL.md
 └── references/
 ```
+修复了部分情况下的格式解析问题。
